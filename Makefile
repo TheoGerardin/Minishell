@@ -18,7 +18,7 @@ CLEAR = \r\033[K
 # VARIABLES #
 # **************************************************************************** #
 
-NAME = minishell
+NAME = Minishell
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -g -I includes -I src/libft
 AUTHORS = tgeradi and qbarron
